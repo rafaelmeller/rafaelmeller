@@ -17,7 +17,7 @@
 
 <p align="left">
   I'm a Python Developer from Brazil. <br>
-  I hold a bachelor's degree in Business Administration and previously ran a business in the healthy food sector.<br>Now, I focus on developing applications that create solutions for small businesses in Brazil. <br>
+  I hold a bachelor's degree in Business Administration and previously ran a business in the healthy food sector.<br>Now, my focus is developing applications that create solutions for small businesses in Brazil. <br>
  I'm constantly expanding my knowledge and learning new technologies.
 </p>
 
@@ -26,7 +26,7 @@
 ### 🇧🇷 Sobre mim:
 
 <p align="left">
-  Sou um desenvolvedor Python, formado em Administração de Empresas pela UFBA.<br>Anteriormente, tive um negócio no setor de alimentos saudáveis. Atualmente, meu foco é desenvolver aplicações que criam soluções para os desafios enfrentados por pequenas empresas brasileiras. <br>
+  Sou um desenvolvedor Python, formado em Administração pela UFBA.<br>Anteriormente, tive um negócio no setor de alimentos saudáveis, no sul de Minas Gerais. Atualmente, meu foco é desenvolver aplicações que criam soluções para os desafios enfrentados por pequenas empresas brasileiras. <br>
   Estou constantemente ampliando meus conhecimentos e aprendendo novas tecnologias.
 </p>
 
