@@ -15,20 +15,31 @@
 
 ### 🌎 About Me:
 
-<p align="left">
-  I'm a Python Developer from Brazil. <br>
-  I hold a bachelor's degree in Business Administration and previously ran a business in the healthy food sector.<br>Now, my focus is developing applications that create solutions for small businesses in Brazil. <br>
- I'm constantly expanding my knowledge and learning new technologies.
-</p>
+<p align="left"> I am a Python Developer dedicated to building a solid technical foundation to contribute meaningfully to any project I'm in. </p> 
+
+- I have a background in Business Administration, which gives me an analytical perspective and problem-solving skills that I apply to software development.  
+- I value continuous improvement, taking on increasingly challenging projects to prepare myself to contribute more effectively in any professional environment.
+ 
+#### ✨ Current Goals:
+
+- Advance Python Expertise: Strengthen my skills in object-oriented programming, data structures, and testing while building useful tools.
+- Explore Machine Learning: Dive into libraries like Pandas, NumPy, and Scikit-learn to use them in practical applications.
 
 ---
 
 ### 🇧🇷 Sobre mim:
 
-<p align="left">
-  Sou um desenvolvedor Python, formado em Administração pela UFBA.<br>Anteriormente, tive um negócio no setor de alimentos saudáveis, no sul de Minas Gerais. Atualmente, meu foco é desenvolver aplicações que criam soluções para os desafios enfrentados por pequenas empresas brasileiras. <br>
-  Estou constantemente ampliando meus conhecimentos e aprendendo novas tecnologias.
-</p>
+<p align="left"> Sou um Desenvolvedor Python comprometido em construir uma base técnica sólida, para contribuir de forma significativa em quaisquer projetos que eu participe. </p> 
+
+- Tenho formação em Administração, o que me proporciona uma perspectiva analítica, além do foco em resolução de problemas para otimizar processos.
+- Valorizo o aprimoramento contínuo, por isso escolho projetos cada vez mais desafiadores, assim me preparo para contribuir de forma cada vez mais efetiva em qualquer ambiente profissional que eu me insira.
+
+#### ✨ Objetivos atuais:
+
+- Aperfeiçoar minhas habilidades em Python: Fortalecer minhas habilidades em programação orientada a objetos, estruturas de dados e testes, enquanto construo ferramentas úteis.
+- Explorar Machine Learning: Mergulhar em bibliotecas como Pandas, NumPy e Scikit-learn para utilizá-las em aplicações.
+
+
 
 ---
 
