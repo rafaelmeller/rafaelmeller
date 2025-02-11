@@ -23,7 +23,8 @@
 #### ✨ Current Goals:
 
 - Advance Python Expertise: Strengthen my skills in object-oriented programming, data structures, and testing while building useful tools.
-- Explore Machine Learning: Dive into libraries like Pandas, NumPy, and Scikit-learn to use them in practical applications.
+- Learn Django: Develop APIs using Django and DRF to deepen my understanding of web development.
+- Explore Machine Learning: Gain hands-on experience with libraries like Pandas, NumPy, and Scikit-learn by applying them to practical projects.
 
 ---
 
@@ -36,8 +37,9 @@
 
 #### ✨ Objetivos atuais:
 
-- Aperfeiçoar minhas habilidades em Python: Fortalecer minhas habilidades em programação orientada a objetos, estruturas de dados e testes, enquanto construo ferramentas úteis.
-- Explorar Machine Learning: Mergulhar em bibliotecas como Pandas, NumPy e Scikit-learn para utilizá-las em aplicações.
+- Aprofundar conhecimentos em Python: Fortalecer minhas habilidades em programação orientada a objetos, estruturas de dados e testes, enquanto desenvolvo ferramentas úteis.
+- Aprender Django: Criar APIs com Django e DRF para aprofundar meu entendimento sobre desenvolvimento web.
+- Explorar Machine Learning: Adquirir experiência prática com bibliotecas como Pandas, NumPy e Scikit-learn, aplicando-as em projetos reais.
 
 
 
