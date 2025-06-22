@@ -15,30 +15,31 @@
 
 ### 🌎 About Me:
 
-<p align="left"> I am a Python Developer dedicated to building a solid technical foundation to contribute meaningfully to any project I'm in. </p> 
+<p align="left"> From running my own business to coordinating sustainability projects, I’ve always been drawn to problem-solving and continuous learning.
 
-- I have a background in Business Administration, which gives me an analytical perspective and problem-solving skills that I apply to software development.  
-- I value continuous improvement, taking on increasingly challenging projects to prepare myself to contribute more effectively in any professional environment.
+My path into tech began through Python development, and today I'm part of a team building digital transformation projects for international clients. I bring hands-on experience in business management, stakeholder collaboration, and project execution, with a mindset focused on clarity, feasibility, and adaptability.
+
+I’m particularly interested in AI, automation, and tools that address real-world problems, ideally with a sustainable or human-centered approach. </p> 
+
  
 #### ✨ Current Goals:
 
-- Advance Python Expertise: Strengthen my skills in object-oriented programming, data structures, and testing while building useful tools.
-- Learn Django: Develop APIs using Django and DRF to deepen my understanding of web development.
-- Explore Machine Learning: Gain hands-on experience with libraries like Pandas, NumPy, and Scikit-learn by applying them to practical projects.
+- Deepen knowledge in automation: Strengthen my skills in automating processes and tasks;
+- Explore Machine Learning: Gain hands-on experience with libraries such as Pandas, NumPy, and Scikit-learn, applying them to real-world projects.
 
 ---
 
 ### 🇧🇷 Sobre mim:
 
-<p align="left"> Sou um Desenvolvedor Python comprometido em construir uma base técnica sólida, para contribuir de forma significativa em quaisquer projetos que eu participe. </p> 
+<p align="left"> Desde conduzir meu próprio negócio até a coordenação de projetos de sustentabilidade, sempre fui movido pela resolução de problemas e pelo aprendizado contínuo.
 
-- Tenho formação em Administração, o que me proporciona uma perspectiva analítica, além do foco em resolução de problemas para otimizar processos.
-- Valorizo o aprimoramento contínuo, por isso escolho projetos cada vez mais desafiadores, assim me preparo para contribuir de forma cada vez mais efetiva em qualquer ambiente profissional que eu me insira.
+Minha jornada no setor de tecnologia começou com o desenvolvimento em Python, e hoje faço parte de uma equipe que lidera projetos de transformação digital para clientes internacionais. Trago uma bagagem prática em gestão de negócios, colaboração com stakeholders e execução de projetos, com uma mentalidade voltada para clareza, viabilidade e adaptabilidade.
+
+Tenho especial interesse por inteligência artificial, automação e soluções tecnológicas que resolvam problemas reais, de preferência com um enfoque sustentável e/ou centrado nas pessoas. </p> 
 
 #### ✨ Objetivos atuais:
 
-- Aprofundar conhecimentos em Python: Fortalecer minhas habilidades em programação orientada a objetos, estruturas de dados e testes, enquanto desenvolvo ferramentas úteis.
-- Aprender Django: Criar APIs com Django e DRF para aprofundar meu entendimento sobre desenvolvimento web.
+- Aprofundar conhecimentos em automação: Fortalecer minhas habilidades em automar processos e tarefas;
 - Explorar Machine Learning: Adquirir experiência prática com bibliotecas como Pandas, NumPy e Scikit-learn, aplicando-as em projetos reais.
 
 
